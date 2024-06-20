@@ -3,7 +3,7 @@
 - 🌱 Estudando FrontEnd no geral, focando em Angular, Javascript e Typescript
 - 👯 Procuro migrar para a área de Dev. Buscando uma oportunidade de aprender e progredir nela.
 - 📫 Acesse também meu perfil do LinkedIn:  www.linkedin.com/in/joao-lemes-6978131ba
--->
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
