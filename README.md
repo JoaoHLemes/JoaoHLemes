@@ -1,6 +1,6 @@
 ## Olá !! Eu sou o João :) 👋
 - 🔭 Hoje eu trabalho como Analista de Suporte N1
-- 🌱 Estudando FrontEnd no geral, focando em Angular, Javascript e Fultter/dart
+- 🌱 Estudando FrontEnd no geral, como Angular, Javascript e focando mais em Fultter/dart
 - 👯 Procuro migrar para a área de Dev. Buscando uma oportunidade de aprender e progredir nela.
 - 📫 Acesse também meu perfil do LinkedIn:  www.linkedin.com/in/joao-lemes-6978131ba
 
