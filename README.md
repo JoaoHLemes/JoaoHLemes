@@ -4,7 +4,7 @@
 - 👯 Procuro migrar para a área de Dev. Buscando uma oportunidade de aprender e progredir nela.
 - 📫 Acesse também meu perfil do LinkedIn:  www.linkedin.com/in/joao-lemes-costa
 
-username=JoaoHLemes&show_icons=true&theme=onedark&hide_title=true&locale=pt-br&hide=contribs)
+
 <div style="display: inline_block">
   
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
