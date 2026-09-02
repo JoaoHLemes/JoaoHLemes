@@ -2,7 +2,7 @@
 - 🔭 Hoje eu trabalho como Analista de Suporte N1
 - 🌱 Estudando FrontEnd no geral, como Angular, Javascript e focando mais em Fultter/dart
 - 👯 Procuro migrar para a área de Dev. Buscando uma oportunidade de aprender e progredir nela.
-- 📫 Acesse também meu perfil do LinkedIn:  www.linkedin.com/in/joao-lemes-6978131ba
+- 📫 Acesse também meu perfil do LinkedIn:  www.linkedin.com/in/joao-lemes-costa
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoHLemes&show_icons=true&theme=onedark&hide_title=true&locale=pt-br&hide=contribs)
 <div style="display: inline_block">
